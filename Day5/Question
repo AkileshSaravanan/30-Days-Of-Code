@@ -1,7 +1,7 @@
 Day 5 Loops Hackerrank Solution | 30 Days of Code
 
 Objective
-In this challenge, we’re going to use loops to help us do some simple math. Check out the Tutorial tab to learn more.
+In this challenge, we’re going to use loops to help us do some simple math. 
 
 Task
 Given an integer, , print its first. multiples. Each multiple. (where ) should be printed on a new line in the form: n x i = result.
