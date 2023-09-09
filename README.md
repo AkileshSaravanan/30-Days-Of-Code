@@ -2,18 +2,19 @@
 
 # AUTHOR = AKILESH S,
 
-The above listed codes and information are unique and it is open source to use,
+The above-listed codes and information are unique and it is open-source to use,
 
 👉🏻I am dedicated to consistently learning and practicing the 30 Days of Code challenge in Java with the help of HackerRank.
 
-👉🏻Each day, I invest time to improve my coding skills and understanding of Java better.
+👉🏻Each day, I invest time in improving my coding skills and understanding of Java.
 
-👉🏻My goal is to simplify the learning process for myself and maintaining a consistent routine...💯
+👉🏻My goal is to simplify the learning process for myself and maintain a consistent routine...💯
 
-👉🏻I am daily updating my codes here, everyone can make use of it and be honest to your work...😉
+👉🏻I am daily updating my codes here, everyone can make use of it and be honest with your work...😉
 
 To know more about me or to follow my work, you can visit me on,
 
+<li><a href="https://akileshsaravanan.github.io/">Portfolio</a> 
 <li><a href="http://www.linkedin.com/in/Akilesh--S">LinkedIn</a> 
 <li><a href="https://github.com/AkileshSaravanan">Github</a> 
 <li><a href="https://www.hackerrank.com/Akilesh_RMS">HackerRank</a> 
